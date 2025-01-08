@@ -18,9 +18,6 @@ Given this the script maps all locations in the map where estimated shadow size 
           Length (s)
 ```
 
-
-The script also provides a zoom on mouse scroll and an outline of borders, coastlines, bodies of waters, etc. for ease of use.
-
 # Example output
 ![image](https://github.com/user-attachments/assets/24997691-52e5-44b4-a973-e909dc7a252a)
 
